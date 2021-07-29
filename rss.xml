@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>在路上</title>
+        <link>https://xiadingz.github.io/</link>
+        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <generator>Hugo 0.86.0 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>xiading1996@gmail.com (夏鼎)</managingEditor>
+        
+        
+            <webMaster>xiading1996@gmail.com (夏鼎)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Thu, 29 Jul 2021 10:56:55 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://xiadingz.github.io/rss.xml" />
+        
+        
+            <item>
+                <title>2nd Post</title>
+                <link>https://xiadingz.github.io/post/2nd-post/</link>
+                <guid isPermaLink="true">https://xiadingz.github.io/post/2nd-post/</guid>
+                <pubDate>Thu, 29 Jul 2021 10:14:07 &#43;0800</pubDate>
+                
+                    <author>xiading1996@gmail.com (夏鼎)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;2nd test&lt;/p&gt;
+&lt;h2 id=&#34;3nd-test&#34;&gt;3nd test&lt;/h2&gt;</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://xiadingz.github.io/categories/category/">category</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://xiadingz.github.io/categories/subcategory/">subcategory</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://xiadingz.github.io/tags/tag1/">tag1</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://xiadingz.github.io/tags/tag2/">tag2</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>My First Post</title>
+                <link>https://xiadingz.github.io/post/my-first-post/</link>
+                <guid isPermaLink="true">https://xiadingz.github.io/post/my-first-post/</guid>
+                <pubDate>Thu, 29 Jul 2021 10:07:21 &#43;0800</pubDate>
+                
+                    <author>xiading1996@gmail.com (夏鼎)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h1 id=&#34;first-test&#34;&gt;First Test&lt;/h1&gt;
+&lt;p&gt;hello
+$\mathbf x = 5$&lt;/p&gt;</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://xiadingz.github.io/categories/category/">category</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://xiadingz.github.io/categories/subcategory/">subcategory</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://xiadingz.github.io/tags/tag1/">tag1</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://xiadingz.github.io/tags/tag2/">tag2</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>

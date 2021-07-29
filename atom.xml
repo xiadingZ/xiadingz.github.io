@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">在路上</title>
+    <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
+    <updated>2021-07-29T10:56:55&#43;08:00</updated>
+    <id>https://xiadingz.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://xiadingz.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://xiadingz.github.io/atom.xml" />
+    <author>
+            <name>夏鼎</name>
+            <uri>https://xiadingz.github.io/</uri>
+            
+                <email>xiading1996@gmail.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    <generator uri="https://gohugo.io/" version="0.86.0">Hugo</generator>
+        <entry>
+            <title type="text">2nd Post</title>
+            <link rel="alternate" type="text/html" href="https://xiadingz.github.io/post/2nd-post/" />
+            <id>https://xiadingz.github.io/post/2nd-post/</id>
+            <updated>2021-07-29T10:15:27&#43;08:00</updated>
+            <published>2021-07-29T10:14:07&#43;08:00</published>
+            <author>
+                    <name>夏鼎</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>xiading1996@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">&lt;p&gt;2nd test&lt;/p&gt;
+&lt;h2 id=&#34;3nd-test&#34;&gt;3nd test&lt;/h2&gt;</summary>
+            
+                <content type="html">&lt;p&gt;2nd test&lt;/p&gt;
+&lt;h2 id=&#34;3nd-test&#34;&gt;3nd test&lt;/h2&gt;</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://xiadingz.github.io/categories/category/" term="category" label="category" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://xiadingz.github.io/categories/subcategory/" term="subcategory" label="subcategory" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://xiadingz.github.io/tags/tag1/" term="tag1" label="tag1" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://xiadingz.github.io/tags/tag2/" term="tag2" label="tag2" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">My First Post</title>
+            <link rel="alternate" type="text/html" href="https://xiadingz.github.io/post/my-first-post/" />
+            <id>https://xiadingz.github.io/post/my-first-post/</id>
+            <updated>2021-07-29T10:08:18&#43;08:00</updated>
+            <published>2021-07-29T10:07:21&#43;08:00</published>
+            <author>
+                    <name>夏鼎</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>xiading1996@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
+            
+                <content type="html">&lt;h1 id=&#34;first-test&#34;&gt;First Test&lt;/h1&gt;
+&lt;p&gt;hello
+$\mathbf x = 5$&lt;/p&gt;</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://xiadingz.github.io/categories/category/" term="category" label="category" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://xiadingz.github.io/categories/subcategory/" term="subcategory" label="subcategory" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://xiadingz.github.io/tags/tag1/" term="tag1" label="tag1" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://xiadingz.github.io/tags/tag2/" term="tag2" label="tag2" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+</feed>
